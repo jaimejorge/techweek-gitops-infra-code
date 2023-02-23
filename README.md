@@ -43,10 +43,7 @@
 ## Step 6 Lean Kubernetes commands
 
 
-- [Kubernetes basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
-
-
-- Only create a cluster and deploy an App sections.
+- [Kubernetes basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) Sections: `create a cluster` and `deploy an App`.
 
 
 ## Step 7 Install local Kubernetes and Argocd.
