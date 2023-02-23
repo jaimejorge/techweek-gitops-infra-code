@@ -8,7 +8,7 @@
 - [Git Hellow World](https://docs.github.com/en/get-started/quickstart/hello-world)
 
 
-- [Set up Git](hhttps://docs.github.com/en/get-started/quickstart/set-up-git)
+- [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 
 ## step 2: Learn to build Docker images
