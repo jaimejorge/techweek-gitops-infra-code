@@ -55,7 +55,7 @@
 ```
 
 
-- Modify the argocd-apps.yaml with the correct RepoUrl and execute:
+- Modify the [argocd-apps.yaml](./argocd-apps.yaml#L15) with the correct RepoUrl and execute:
 ```
  kubectl apply -f argocd-apps.yaml
 ```

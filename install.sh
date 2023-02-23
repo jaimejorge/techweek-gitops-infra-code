@@ -2,9 +2,9 @@
 
 set -e
 
-#k3d cluster create techweek-dev --api-port 6443 -p 8080:80@loadbalancer 
-#kubectl create namespace argocd
-#kubectl apply -n argocd -f install-argocd.yaml
+k3d cluster create techweek-dev --api-port 6443 -p 8080:80@loadbalancer 
+kubectl create namespace argocd
+kubectl apply -n argocd -f install-argocd.yaml
 
 echo 
 echo "Open the file argocd-apps.yaml"
